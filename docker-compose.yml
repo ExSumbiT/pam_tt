@@ -1,0 +1,7 @@
+version: '3.8'
+
+services:
+  telegram_bot:
+    build: .
+    restart: always
+    shm_size: 2g # Increase the shared memory size
