@@ -1,4 +1,4 @@
-## Test task for DevsData company
+## Test task for Python Automation Masters company
 
 Used:
 
