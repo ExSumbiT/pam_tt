@@ -8,7 +8,7 @@ Used:
 - bs4
 ```
 
-faster.py - use requests sessions
+faster.py - use requests sessions__
 wlogin.py - use selenium
 
 !!!Create your own .env file with this variables:
